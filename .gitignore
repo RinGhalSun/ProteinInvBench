@@ -125,6 +125,13 @@ pretrains
 
 # Pytorch
 *.pth
+*.pt
+
+# PDB files
+*.pdb
+
+# sequence file
+*.fasta
 
 *.swp
 .DS_Store
