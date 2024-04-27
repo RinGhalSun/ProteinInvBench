@@ -115,7 +115,9 @@ venv.bak/
 bash
 data
 data_set
-results/
+results/esm_fold_pdb
+results/model_zoom
+results/reference_pdb
 run.sh
 output/
 work_dirs/
