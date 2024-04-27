@@ -115,9 +115,6 @@ venv.bak/
 bash
 data
 data_set
-results/esm_fold_pdb
-results/model_zoom
-results/reference_pdb
 run.sh
 output/
 work_dirs/
@@ -134,6 +131,11 @@ pretrains
 
 # sequence file
 *.fasta
+
+# result folder pdb and checkpoints
+results/esm_fold_pdb
+results/model_zoom
+results/reference_pdb
 
 *.swp
 .DS_Store
